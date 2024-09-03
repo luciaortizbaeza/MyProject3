@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{font-family: "Nunito", sans-serif; font-weight: 300; background-color: #e3d5ca;}
+
+
+h1{text-align: center; text-decoration: underline; font-family: "Raleway", sans-serif; font-weight: 400; color: #7f5539;}
+h2, h3, h4, h5{font-family: "Raleway", sans-serif; font-weight: 400;color: #7f5539;}
+
+#color{color: #7f5539;}
+
+
